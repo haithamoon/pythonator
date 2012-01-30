@@ -1,6 +1,19 @@
 Pythonator Project
 
+
+
+
+
+
+
+
+
+
+
 GIT sequence 
 add
 commit 
 push
+git log # to list all revisions
+git status
+
