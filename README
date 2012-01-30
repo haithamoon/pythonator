@@ -16,4 +16,4 @@ commit
 push
 git log # to list all revisions
 git status
-
+git commit -a -m"adding git commmands"
