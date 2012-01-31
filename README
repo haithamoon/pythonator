@@ -12,6 +12,10 @@ Helpers
 =======
 ipython
 
+Database
+========
+mysql -u root
+create database testdb;
 
 GIT sequence 
 add
