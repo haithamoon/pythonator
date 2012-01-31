@@ -1,13 +1,16 @@
 Pythonator Project
 
+Dependencies
+============
+BeautifulSoup
+python-beautifulsoup
 
+MySQLdb
+python-mysqldb
 
-
-
-
-
-
-
+Helpers
+=======
+ipython
 
 
 GIT sequence 
