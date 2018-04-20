@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') { 
             steps {
-                python3 get_bitcoin_exchange.py 
+                sh ' python3 get_bitcoin_exchange.py '
             }
         }
         }
