@@ -3,18 +3,8 @@ pipeline {
     stages {
         stage('Build') { 
             steps {
-                // 
+                python3 get_bitcoin_exchange.py 
             }
         }
-        stage('Test') { 
-            steps {
-                // 
-            }
-        }
-        stage('Deploy') { 
-            steps {
-                // 
-            }
         }
     }
-}
