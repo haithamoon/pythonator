@@ -1,26 +1,2 @@
 Pythonator Project
-
-Dependencies
-============
-BeautifulSoup
-python-beautifulsoup
-
-MySQLdb
-python-mysqldb
-
-Helpers
-=======
-ipython
-
-Database
-========
-mysql -u root
-create database testdb;
-
-GIT sequence 
-add
-commit 
-push
-git log # to list all revisions
-git status
-git commit -a -m"adding git commmands"
+##################
